@@ -37,8 +37,9 @@ Retail businesses generate thousands of transactions every day, making it diffic
 
 ## 📈 Dashboard Preview
 
-https://github.com/Ansh-Pandey71/retail-sales-analytics/blob/main/Dashboard%20Screenshot/Retail%20Dashboard.png?raw=true
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh-Pandey71/retail-sales-analytics/main/Dashboard%20Screenshot/Retail%20Dashboard.png" width="100%">
+</p>
 ---
 
 ## 📌 Key KPIs
