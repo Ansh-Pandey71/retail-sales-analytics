@@ -37,7 +37,7 @@ Retail businesses generate thousands of transactions every day, making it diffic
 
 ## 📈 Dashboard Preview
 
-"C:\DA Projects\Retail-Sales-Analytics\Dashboard Screenshot\Retail Dashboard.png"
+https://github.com/Ansh-Pandey71/retail-sales-analytics/blob/main/Dashboard%20Screenshot/Retail%20Dashboard.png?raw=true
 
 ---
 
