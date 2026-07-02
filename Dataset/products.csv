@@ -1,0 +1,601 @@
+product_id,product_name,brand,category,sub_category,cost_price,selling_price
+1,Mobile 1,Vertex,Electronics,Mobile,2201,3700.1
+2,Mobile 2,Nova,Electronics,Mobile,11205,16491.36
+3,Accessory 3,Urban,Electronics,Accessory,1614,2517.17
+4,Accessory 4,Prime,Electronics,Accessory,1740,2115.63
+5,Mobile 5,Urban,Electronics,Mobile,1671,2382.33
+6,Laptop 6,Apex,Electronics,Laptop,5045,6361.08
+7,Accessory 7,Nova,Electronics,Accessory,5686,9817.41
+8,Mobile 8,Vertex,Electronics,Mobile,1428,1688.84
+9,Accessory 9,Elite,Electronics,Accessory,10010,13117.22
+10,Laptop 10,Apex,Electronics,Laptop,6874,12667.71
+11,Accessory 11,Vertex,Electronics,Accessory,3654,6713.5
+12,Mobile 12,Vertex,Electronics,Mobile,553,983.17
+13,Accessory 13,Prime,Electronics,Accessory,701,1158.47
+14,Laptop 14,Urban,Electronics,Laptop,1098,1410.77
+15,Laptop 15,Urban,Electronics,Laptop,4385,7366.23
+16,Laptop 16,Elite,Electronics,Laptop,5909,6921.01
+17,Mobile 17,Vertex,Electronics,Mobile,2856,4233.05
+18,Accessory 18,Urban,Electronics,Accessory,7954,13694.79
+19,Laptop 19,Apex,Electronics,Laptop,4291,4977
+20,Mobile 20,Urban,Electronics,Mobile,5782,7650.08
+21,Laptop 21,Prime,Electronics,Laptop,228,393.94
+22,Laptop 22,Nova,Electronics,Laptop,1499,2321.97
+23,Mobile 23,Urban,Electronics,Mobile,5339,7841.66
+24,Laptop 24,Elite,Electronics,Laptop,1252,1944.31
+25,Mobile 25,Vertex,Electronics,Mobile,3665,5674.11
+26,Accessory 26,Elite,Electronics,Accessory,9021,12031.46
+27,Accessory 27,Vertex,Electronics,Accessory,11501,19922.92
+28,Mobile 28,Urban,Electronics,Mobile,10813,14157.23
+29,Mobile 29,Vertex,Electronics,Mobile,11903,16011.23
+30,Mobile 30,Apex,Electronics,Mobile,3088,4965.35
+31,Accessory 31,Vertex,Electronics,Accessory,2926,4880.5
+32,Laptop 32,Urban,Electronics,Laptop,6604,8825.37
+33,Mobile 33,Prime,Electronics,Mobile,1703,2841.22
+34,Accessory 34,Vertex,Electronics,Accessory,4451,7182.63
+35,Accessory 35,Nova,Electronics,Accessory,9885,12420.66
+36,Accessory 36,Urban,Electronics,Accessory,1312,2192.6
+37,Mobile 37,Apex,Electronics,Mobile,1247,2116.41
+38,Mobile 38,Prime,Electronics,Mobile,1403,1993.84
+39,Accessory 39,Vertex,Electronics,Accessory,2049,3466.57
+40,Accessory 40,Elite,Electronics,Accessory,11464,20730.86
+41,Mobile 41,Elite,Electronics,Mobile,1839,2466.47
+42,Laptop 42,Elite,Electronics,Laptop,11615,19363.83
+43,Accessory 43,Elite,Electronics,Accessory,1753,3148.35
+44,Laptop 44,Nova,Electronics,Laptop,5486,9733.34
+45,Laptop 45,Prime,Electronics,Laptop,3906,4804.11
+46,Laptop 46,Apex,Electronics,Laptop,11189,15683.16
+47,Mobile 47,Nova,Electronics,Mobile,3312,3989.26
+48,Mobile 48,Urban,Electronics,Mobile,11001,18110.29
+49,Accessory 49,Prime,Electronics,Accessory,4509,5796.12
+50,Laptop 50,Nova,Electronics,Laptop,1790,3182
+51,Laptop 51,Apex,Electronics,Laptop,4360,7146.79
+52,Accessory 52,Urban,Electronics,Accessory,3857,4615.06
+53,Mobile 53,Prime,Electronics,Mobile,4596,8224.14
+54,Laptop 54,Prime,Electronics,Laptop,6157,9584.21
+55,Mobile 55,Urban,Electronics,Mobile,6251,10882.89
+56,Laptop 56,Vertex,Electronics,Laptop,6200,7902.97
+57,Mobile 57,Prime,Electronics,Mobile,4268,7818.67
+58,Laptop 58,Nova,Electronics,Laptop,6438,11905.09
+59,Mobile 59,Prime,Electronics,Mobile,10826,14024.51
+60,Laptop 60,Elite,Electronics,Laptop,6185,8230.11
+61,Laptop 61,Vertex,Electronics,Laptop,323,383.7
+62,Laptop 62,Nova,Electronics,Laptop,6251,8289.51
+63,Laptop 63,Nova,Electronics,Laptop,7381,11186.43
+64,Laptop 64,Nova,Electronics,Laptop,9298,15654.5
+65,Laptop 65,Prime,Electronics,Laptop,2129,3222.71
+66,Mobile 66,Nova,Electronics,Mobile,7176,10621.91
+67,Mobile 67,Elite,Electronics,Mobile,1312,1770.63
+68,Laptop 68,Apex,Electronics,Laptop,4117,7626.5
+69,Mobile 69,Elite,Electronics,Mobile,1371,2100.35
+70,Accessory 70,Elite,Electronics,Accessory,3736,5873.57
+71,Mobile 71,Apex,Electronics,Mobile,1181,2194.03
+72,Mobile 72,Apex,Electronics,Mobile,4127,6360.36
+73,Laptop 73,Elite,Electronics,Laptop,3679,4510.91
+74,Laptop 74,Elite,Electronics,Laptop,7875,14514.18
+75,Accessory 75,Elite,Electronics,Accessory,2358,2843.34
+76,Accessory 76,Urban,Electronics,Accessory,5407,6615.19
+77,Accessory 77,Vertex,Electronics,Accessory,6118,7348.39
+78,Laptop 78,Apex,Electronics,Laptop,8090,10864.79
+79,Mobile 79,Apex,Electronics,Mobile,10481,17186
+80,Mobile 80,Vertex,Electronics,Mobile,10744,16145.31
+81,Mobile 81,Elite,Electronics,Mobile,9000,14726.89
+82,Accessory 82,Urban,Electronics,Accessory,10111,12683.99
+83,Mobile 83,Urban,Electronics,Mobile,6546,11473.35
+84,Accessory 84,Urban,Electronics,Accessory,884,1585
+85,Accessory 85,Prime,Electronics,Accessory,10863,13973.03
+86,Mobile 86,Vertex,Electronics,Mobile,9996,14932.65
+87,Mobile 87,Nova,Electronics,Mobile,7562,9926.83
+88,Laptop 88,Prime,Electronics,Laptop,7392,13908.72
+89,Laptop 89,Nova,Electronics,Laptop,5344,8483.48
+90,Laptop 90,Nova,Electronics,Laptop,610,1012.2
+91,Laptop 91,Elite,Electronics,Laptop,8133,10774.81
+92,Laptop 92,Vertex,Electronics,Laptop,8582,15361.36
+93,Laptop 93,Apex,Electronics,Laptop,11219,21247.55
+94,Mobile 94,Prime,Electronics,Mobile,3352,5951.27
+95,Laptop 95,Urban,Electronics,Laptop,7680,10392.84
+96,Mobile 96,Elite,Electronics,Mobile,6867,8811.26
+97,Accessory 97,Urban,Electronics,Accessory,11815,13790.66
+98,Mobile 98,Nova,Electronics,Mobile,4106,7271.81
+99,Mobile 99,Apex,Electronics,Mobile,10153,17857.05
+100,Laptop 100,Vertex,Electronics,Laptop,7983,12544.53
+101,Table 101,Apex,Furniture,Table,2455,3303.95
+102,Chair 102,Prime,Furniture,Chair,4687,8765.57
+103,Chair 103,Urban,Furniture,Chair,8755,10956.42
+104,Chair 104,Prime,Furniture,Chair,2948,3908.26
+105,Chair 105,Elite,Furniture,Chair,9794,17282.04
+106,Table 106,Prime,Furniture,Table,9541,15707.14
+107,Storage 107,Vertex,Furniture,Storage,4606,8640.01
+108,Table 108,Nova,Furniture,Table,1753,2083.78
+109,Chair 109,Prime,Furniture,Chair,4945,5948.35
+110,Chair 110,Elite,Furniture,Chair,7082,8533.86
+111,Table 111,Apex,Furniture,Table,11064,18145.62
+112,Storage 112,Elite,Furniture,Storage,2110,3132.73
+113,Storage 113,Urban,Furniture,Storage,8890,14132.6
+114,Storage 114,Nova,Furniture,Storage,9347,12099.82
+115,Storage 115,Prime,Furniture,Storage,4350,6863.15
+116,Storage 116,Elite,Furniture,Storage,4388,7163.88
+117,Table 117,Nova,Furniture,Table,8782,11794.91
+118,Storage 118,Elite,Furniture,Storage,1135,1836.64
+119,Chair 119,Nova,Furniture,Chair,11211,15651.5
+120,Table 120,Vertex,Furniture,Table,7988,11223.32
+121,Storage 121,Urban,Furniture,Storage,3153,4726.75
+122,Chair 122,Prime,Furniture,Chair,7255,8827.25
+123,Storage 123,Prime,Furniture,Storage,6902,10013.33
+124,Storage 124,Vertex,Furniture,Storage,4009,5725.27
+125,Table 125,Urban,Furniture,Table,6427,10588.5
+126,Chair 126,Urban,Furniture,Chair,3846,6268.4
+127,Chair 127,Elite,Furniture,Chair,784,1201.41
+128,Storage 128,Elite,Furniture,Storage,7094,11597.1
+129,Storage 129,Apex,Furniture,Storage,7640,14185.84
+130,Storage 130,Elite,Furniture,Storage,6027,8491.01
+131,Table 131,Vertex,Furniture,Table,3074,5405.71
+132,Chair 132,Prime,Furniture,Chair,11282,18693.96
+133,Table 133,Vertex,Furniture,Table,6257,7745.27
+134,Table 134,Vertex,Furniture,Table,9215,15034.87
+135,Chair 135,Prime,Furniture,Chair,11748,18727.84
+136,Table 136,Prime,Furniture,Table,5129,8393.83
+137,Chair 137,Vertex,Furniture,Chair,10048,14983.5
+138,Storage 138,Nova,Furniture,Storage,947,1229.9
+139,Storage 139,Apex,Furniture,Storage,8963,13078.75
+140,Table 140,Nova,Furniture,Table,676,812.92
+141,Chair 141,Nova,Furniture,Chair,1605,2683.42
+142,Chair 142,Vertex,Furniture,Chair,3967,5081.34
+143,Chair 143,Nova,Furniture,Chair,516,602.67
+144,Chair 144,Urban,Furniture,Chair,3449,4350.78
+145,Chair 145,Urban,Furniture,Chair,8757,12362.27
+146,Table 146,Urban,Furniture,Table,8045,14529.84
+147,Chair 147,Urban,Furniture,Chair,1575,2123.08
+148,Chair 148,Vertex,Furniture,Chair,1238,2003.13
+149,Table 149,Vertex,Furniture,Table,2358,4111.89
+150,Table 150,Prime,Furniture,Table,5798,8849.6
+151,Chair 151,Apex,Furniture,Chair,10115,18679.65
+152,Chair 152,Elite,Furniture,Chair,2721,4841.21
+153,Table 153,Prime,Furniture,Table,5035,8497.86
+154,Table 154,Nova,Furniture,Table,1382,2420.57
+155,Chair 155,Vertex,Furniture,Chair,9804,12394.09
+156,Table 156,Prime,Furniture,Table,7874,13727.94
+157,Storage 157,Elite,Furniture,Storage,1728,3056.21
+158,Storage 158,Prime,Furniture,Storage,7334,9194.31
+159,Storage 159,Vertex,Furniture,Storage,3735,4597.49
+160,Table 160,Apex,Furniture,Table,4147,7104.36
+161,Table 161,Vertex,Furniture,Table,8749,13559.76
+162,Chair 162,Nova,Furniture,Chair,706,933.04
+163,Chair 163,Vertex,Furniture,Chair,8601,11767.07
+164,Storage 164,Prime,Furniture,Storage,11524,17178.6
+165,Chair 165,Vertex,Furniture,Chair,3552,6712.17
+166,Table 166,Prime,Furniture,Table,2350,2979.82
+167,Table 167,Vertex,Furniture,Table,5752,10182.44
+168,Storage 168,Urban,Furniture,Storage,11700,20425.49
+169,Table 169,Urban,Furniture,Table,5368,8278.43
+170,Chair 170,Urban,Furniture,Chair,10181,14117.24
+171,Chair 171,Prime,Furniture,Chair,5525,8482.57
+172,Chair 172,Elite,Furniture,Chair,10512,19005.28
+173,Chair 173,Apex,Furniture,Chair,3439,4781.71
+174,Storage 174,Vertex,Furniture,Storage,8740,15753.25
+175,Storage 175,Nova,Furniture,Storage,8006,12384.85
+176,Chair 176,Elite,Furniture,Chair,10996,13223.13
+177,Table 177,Vertex,Furniture,Table,8122,9746.67
+178,Storage 178,Elite,Furniture,Storage,3835,5703.49
+179,Storage 179,Urban,Furniture,Storage,7055,12189.21
+180,Storage 180,Vertex,Furniture,Storage,7521,13047.55
+181,Table 181,Elite,Furniture,Table,10337,12283.35
+182,Chair 182,Prime,Furniture,Chair,10633,19584.34
+183,Chair 183,Elite,Furniture,Chair,9334,11636.83
+184,Storage 184,Vertex,Furniture,Storage,10347,12171.63
+185,Chair 185,Elite,Furniture,Chair,11022,19046.81
+186,Storage 186,Vertex,Furniture,Storage,1604,2018.83
+187,Chair 187,Nova,Furniture,Chair,11928,22336.88
+188,Chair 188,Vertex,Furniture,Chair,4919,9013.39
+189,Chair 189,Nova,Furniture,Chair,8883,10925.31
+190,Table 190,Apex,Furniture,Table,2886,5090.62
+191,Table 191,Elite,Furniture,Table,2970,3949.33
+192,Table 192,Nova,Furniture,Table,11798,16558.78
+193,Chair 193,Nova,Furniture,Chair,7705,14476.25
+194,Chair 194,Vertex,Furniture,Chair,4452,8268.33
+195,Table 195,Prime,Furniture,Table,7945,10486.24
+196,Storage 196,Elite,Furniture,Storage,4930,8475.02
+197,Storage 197,Prime,Furniture,Storage,3507,5963.63
+198,Storage 198,Elite,Furniture,Storage,3372,6193.13
+199,Chair 199,Prime,Furniture,Chair,8605,12082.61
+200,Chair 200,Vertex,Furniture,Chair,4380,6721.62
+201,Men 201,Prime,Fashion,Men,10282,14301.53
+202,Footwear 202,Vertex,Fashion,Footwear,5796,9632.74
+203,Women 203,Prime,Fashion,Women,1123,1983.5
+204,Footwear 204,Urban,Fashion,Footwear,5832,6752.36
+205,Footwear 205,Urban,Fashion,Footwear,844,1539.92
+206,Men 206,Urban,Fashion,Men,5406,9537.17
+207,Women 207,Urban,Fashion,Women,5140,7355.27
+208,Women 208,Prime,Fashion,Women,6397,8718.91
+209,Men 209,Vertex,Fashion,Men,11272,16433.78
+210,Footwear 210,Vertex,Fashion,Footwear,4203,7408.71
+211,Men 211,Urban,Fashion,Men,3008,5162.12
+212,Women 212,Elite,Fashion,Women,8466,13900.74
+213,Women 213,Apex,Fashion,Women,5231,6539.77
+214,Footwear 214,Nova,Fashion,Footwear,5711,9441.17
+215,Women 215,Prime,Fashion,Women,3028,5407.73
+216,Footwear 216,Nova,Fashion,Footwear,11290,17577.94
+217,Footwear 217,Elite,Fashion,Footwear,7666,14255.88
+218,Women 218,Urban,Fashion,Women,3708,6292.78
+219,Men 219,Urban,Fashion,Men,1248,1529.17
+220,Men 220,Nova,Fashion,Men,618,815.96
+221,Footwear 221,Nova,Fashion,Footwear,1308,1992.61
+222,Men 222,Urban,Fashion,Men,7770,12665.53
+223,Women 223,Vertex,Fashion,Women,6394,8839.14
+224,Footwear 224,Urban,Fashion,Footwear,7908,10983.37
+225,Footwear 225,Urban,Fashion,Footwear,5304,9039.62
+226,Footwear 226,Apex,Fashion,Footwear,1934,3094.23
+227,Men 227,Nova,Fashion,Men,8130,12069.82
+228,Footwear 228,Urban,Fashion,Footwear,3920,5119.32
+229,Footwear 229,Vertex,Fashion,Footwear,6151,11352.92
+230,Footwear 230,Apex,Fashion,Footwear,2245,3684.26
+231,Men 231,Elite,Fashion,Men,7761,12364.46
+232,Men 232,Nova,Fashion,Men,11955,14922.74
+233,Men 233,Apex,Fashion,Men,8779,12011.83
+234,Footwear 234,Vertex,Fashion,Footwear,6042,7408.49
+235,Footwear 235,Vertex,Fashion,Footwear,1146,1506.14
+236,Women 236,Vertex,Fashion,Women,2784,3996.28
+237,Men 237,Urban,Fashion,Men,7029,9146.79
+238,Women 238,Prime,Fashion,Women,8646,14690.88
+239,Women 239,Nova,Fashion,Women,9159,15699.76
+240,Footwear 240,Elite,Fashion,Footwear,2547,4084.49
+241,Footwear 241,Vertex,Fashion,Footwear,2888,3718.32
+242,Footwear 242,Urban,Fashion,Footwear,2048,3689.17
+243,Men 243,Nova,Fashion,Men,1108,1446.54
+244,Footwear 244,Prime,Fashion,Footwear,11904,21728.84
+245,Footwear 245,Apex,Fashion,Footwear,7776,14381.48
+246,Men 246,Elite,Fashion,Men,2554,3230.57
+247,Men 247,Vertex,Fashion,Men,7144,8945.63
+248,Women 248,Elite,Fashion,Women,10098,13703.08
+249,Men 249,Nova,Fashion,Men,8608,13956.66
+250,Men 250,Vertex,Fashion,Men,292,511.59
+251,Men 251,Prime,Fashion,Men,4083,6344.67
+252,Footwear 252,Prime,Fashion,Footwear,3074,4070.34
+253,Men 253,Nova,Fashion,Men,9793,16561.43
+254,Footwear 254,Vertex,Fashion,Footwear,7775,13093.6
+255,Men 255,Elite,Fashion,Men,4665,8289.85
+256,Footwear 256,Nova,Fashion,Footwear,1061,1608.79
+257,Women 257,Apex,Fashion,Women,1614,2907.49
+258,Footwear 258,Elite,Fashion,Footwear,7000,8796.06
+259,Men 259,Apex,Fashion,Men,10664,13994.75
+260,Women 260,Prime,Fashion,Women,6888,11881.37
+261,Men 261,Elite,Fashion,Men,3930,4994.72
+262,Women 262,Urban,Fashion,Women,10328,15254.31
+263,Men 263,Nova,Fashion,Men,10603,13931.1
+264,Men 264,Nova,Fashion,Men,3364,5356.49
+265,Footwear 265,Elite,Fashion,Footwear,5051,6504.17
+266,Women 266,Urban,Fashion,Women,9900,14995.4
+267,Women 267,Apex,Fashion,Women,8695,11290.17
+268,Footwear 268,Prime,Fashion,Footwear,2569,3918.06
+269,Men 269,Nova,Fashion,Men,5963,9994.02
+270,Women 270,Elite,Fashion,Women,1845,2611.72
+271,Women 271,Elite,Fashion,Women,5967,10016.93
+272,Footwear 272,Apex,Fashion,Footwear,2695,4039.72
+273,Footwear 273,Vertex,Fashion,Footwear,305,360.28
+274,Women 274,Vertex,Fashion,Women,6007,9200.79
+275,Footwear 275,Apex,Fashion,Footwear,6780,12638.28
+276,Women 276,Vertex,Fashion,Women,2763,4325.93
+277,Footwear 277,Prime,Fashion,Footwear,264,491.56
+278,Footwear 278,Elite,Fashion,Footwear,6194,10272.06
+279,Women 279,Prime,Fashion,Women,9866,15574.18
+280,Women 280,Elite,Fashion,Women,2762,4314.36
+281,Footwear 281,Prime,Fashion,Footwear,3188,4349.2
+282,Men 282,Elite,Fashion,Men,10298,14339.04
+283,Women 283,Apex,Fashion,Women,8321,11283.36
+284,Men 284,Urban,Fashion,Men,5931,9262.7
+285,Footwear 285,Urban,Fashion,Footwear,8013,9913.59
+286,Women 286,Urban,Fashion,Women,10189,16372.31
+287,Men 287,Nova,Fashion,Men,6270,10972.57
+288,Women 288,Urban,Fashion,Women,10494,16309.85
+289,Women 289,Prime,Fashion,Women,4917,8683.85
+290,Footwear 290,Prime,Fashion,Footwear,6381,7442.28
+291,Men 291,Prime,Fashion,Men,1174,1998.78
+292,Men 292,Nova,Fashion,Men,5297,6997.29
+293,Women 293,Vertex,Fashion,Women,4522,5614.06
+294,Men 294,Nova,Fashion,Men,2557,3997.03
+295,Men 295,Nova,Fashion,Men,7311,13000.02
+296,Footwear 296,Elite,Fashion,Footwear,8340,14961.59
+297,Women 297,Vertex,Fashion,Women,1726,2799.87
+298,Men 298,Urban,Fashion,Men,9981,12423.73
+299,Men 299,Nova,Fashion,Men,1577,1879.72
+300,Men 300,Vertex,Fashion,Men,557,777.49
+301,Decor 301,Prime,Home & Kitchen,Decor,2960,3653.39
+302,Appliance 302,Urban,Home & Kitchen,Appliance,3164,4107.15
+303,Decor 303,Elite,Home & Kitchen,Decor,3444,4892.14
+304,Cookware 304,Elite,Home & Kitchen,Cookware,6604,9620.46
+305,Appliance 305,Vertex,Home & Kitchen,Appliance,8114,15262.09
+306,Decor 306,Prime,Home & Kitchen,Decor,3068,3909.16
+307,Cookware 307,Nova,Home & Kitchen,Cookware,10456,17805.33
+308,Cookware 308,Nova,Home & Kitchen,Cookware,8887,14367.21
+309,Cookware 309,Apex,Home & Kitchen,Cookware,9167,15979.79
+310,Appliance 310,Nova,Home & Kitchen,Appliance,7598,11239.3
+311,Decor 311,Elite,Home & Kitchen,Decor,10576,14835.33
+312,Decor 312,Apex,Home & Kitchen,Decor,2616,4694.57
+313,Decor 313,Vertex,Home & Kitchen,Decor,2534,3858.19
+314,Cookware 314,Nova,Home & Kitchen,Cookware,2766,4613.7
+315,Decor 315,Nova,Home & Kitchen,Decor,11696,17966.54
+316,Cookware 316,Prime,Home & Kitchen,Cookware,6984,11727.37
+317,Decor 317,Elite,Home & Kitchen,Decor,6434,10913.91
+318,Cookware 318,Apex,Home & Kitchen,Cookware,8057,15039.41
+319,Appliance 319,Prime,Home & Kitchen,Appliance,5383,9803.94
+320,Cookware 320,Apex,Home & Kitchen,Cookware,3656,6376.63
+321,Appliance 321,Urban,Home & Kitchen,Appliance,9700,16160.27
+322,Decor 322,Apex,Home & Kitchen,Decor,9372,12621.43
+323,Cookware 323,Apex,Home & Kitchen,Cookware,2796,4418.26
+324,Cookware 324,Nova,Home & Kitchen,Cookware,4707,8443.62
+325,Cookware 325,Nova,Home & Kitchen,Cookware,960,1211.34
+326,Decor 326,Apex,Home & Kitchen,Decor,6988,12790.9
+327,Decor 327,Nova,Home & Kitchen,Decor,7200,12087.08
+328,Appliance 328,Nova,Home & Kitchen,Appliance,9849,17066.45
+329,Cookware 329,Apex,Home & Kitchen,Cookware,4732,8552.54
+330,Cookware 330,Urban,Home & Kitchen,Cookware,7438,13477.24
+331,Appliance 331,Nova,Home & Kitchen,Appliance,7554,12362.55
+332,Appliance 332,Urban,Home & Kitchen,Appliance,8291,14722.69
+333,Appliance 333,Urban,Home & Kitchen,Appliance,1265,2075.53
+334,Cookware 334,Apex,Home & Kitchen,Cookware,3570,6568.65
+335,Decor 335,Vertex,Home & Kitchen,Decor,7191,12416.4
+336,Decor 336,Urban,Home & Kitchen,Decor,4748,7084.79
+337,Cookware 337,Elite,Home & Kitchen,Cookware,11397,21226.92
+338,Appliance 338,Prime,Home & Kitchen,Appliance,959,1641.65
+339,Decor 339,Apex,Home & Kitchen,Decor,5036,5993.57
+340,Decor 340,Elite,Home & Kitchen,Decor,2348,3319.41
+341,Appliance 341,Nova,Home & Kitchen,Appliance,4455,7846.13
+342,Cookware 342,Nova,Home & Kitchen,Cookware,8030,9388.48
+343,Appliance 343,Elite,Home & Kitchen,Appliance,3729,5587.6
+344,Decor 344,Urban,Home & Kitchen,Decor,1518,2575.83
+345,Decor 345,Vertex,Home & Kitchen,Decor,3236,6043.5
+346,Appliance 346,Apex,Home & Kitchen,Appliance,10768,13884.8
+347,Cookware 347,Prime,Home & Kitchen,Cookware,5710,7269.88
+348,Cookware 348,Nova,Home & Kitchen,Cookware,3867,5172.65
+349,Appliance 349,Apex,Home & Kitchen,Appliance,2839,5194.88
+350,Cookware 350,Apex,Home & Kitchen,Cookware,1233,2001.3
+351,Decor 351,Elite,Home & Kitchen,Decor,7467,9775.66
+352,Cookware 352,Vertex,Home & Kitchen,Cookware,5324,8845.81
+353,Cookware 353,Elite,Home & Kitchen,Cookware,4001,6559.39
+354,Decor 354,Prime,Home & Kitchen,Decor,3410,6282.67
+355,Decor 355,Urban,Home & Kitchen,Decor,11404,14138.7
+356,Cookware 356,Elite,Home & Kitchen,Cookware,2948,5413.12
+357,Cookware 357,Apex,Home & Kitchen,Cookware,8279,15315.47
+358,Cookware 358,Apex,Home & Kitchen,Cookware,1820,2849.26
+359,Cookware 359,Nova,Home & Kitchen,Cookware,2856,4018.69
+360,Cookware 360,Prime,Home & Kitchen,Cookware,6421,12006.2
+361,Cookware 361,Urban,Home & Kitchen,Cookware,9740,13265.48
+362,Cookware 362,Urban,Home & Kitchen,Cookware,9665,15083.31
+363,Appliance 363,Nova,Home & Kitchen,Appliance,5407,7047.64
+364,Cookware 364,Apex,Home & Kitchen,Cookware,7658,12422.12
+365,Decor 365,Vertex,Home & Kitchen,Decor,11595,16485.08
+366,Appliance 366,Vertex,Home & Kitchen,Appliance,9100,17004.26
+367,Decor 367,Apex,Home & Kitchen,Decor,3065,4353.09
+368,Appliance 368,Vertex,Home & Kitchen,Appliance,5119,7012.04
+369,Appliance 369,Nova,Home & Kitchen,Appliance,11821,22219.52
+370,Cookware 370,Nova,Home & Kitchen,Cookware,361,471.91
+371,Appliance 371,Nova,Home & Kitchen,Appliance,8636,13218.24
+372,Appliance 372,Urban,Home & Kitchen,Appliance,11161,13758.96
+373,Appliance 373,Vertex,Home & Kitchen,Appliance,3364,5579.73
+374,Decor 374,Elite,Home & Kitchen,Decor,229,309.13
+375,Appliance 375,Apex,Home & Kitchen,Appliance,4795,6639.88
+376,Decor 376,Urban,Home & Kitchen,Decor,344,528.51
+377,Decor 377,Prime,Home & Kitchen,Decor,9858,15275.7
+378,Appliance 378,Prime,Home & Kitchen,Appliance,9589,12485.33
+379,Appliance 379,Nova,Home & Kitchen,Appliance,1865,2439.29
+380,Cookware 380,Apex,Home & Kitchen,Cookware,9792,17727.07
+381,Cookware 381,Elite,Home & Kitchen,Cookware,11256,21102.79
+382,Decor 382,Vertex,Home & Kitchen,Decor,640,768.3
+383,Cookware 383,Urban,Home & Kitchen,Cookware,2010,3562.12
+384,Decor 384,Vertex,Home & Kitchen,Decor,2623,3858.07
+385,Appliance 385,Elite,Home & Kitchen,Appliance,646,1224.46
+386,Decor 386,Prime,Home & Kitchen,Decor,8905,14604.89
+387,Cookware 387,Urban,Home & Kitchen,Cookware,6187,9673.05
+388,Cookware 388,Prime,Home & Kitchen,Cookware,4379,6820.92
+389,Appliance 389,Apex,Home & Kitchen,Appliance,2684,3387.27
+390,Appliance 390,Apex,Home & Kitchen,Appliance,2822,3899.9
+391,Decor 391,Elite,Home & Kitchen,Decor,1773,2784.23
+392,Cookware 392,Vertex,Home & Kitchen,Cookware,9106,15594.28
+393,Appliance 393,Prime,Home & Kitchen,Appliance,4069,5969.21
+394,Appliance 394,Urban,Home & Kitchen,Appliance,4163,7582.97
+395,Appliance 395,Apex,Home & Kitchen,Appliance,1716,3047.83
+396,Cookware 396,Nova,Home & Kitchen,Cookware,7234,10139.46
+397,Appliance 397,Nova,Home & Kitchen,Appliance,11177,21174.02
+398,Cookware 398,Nova,Home & Kitchen,Cookware,8442,11220.51
+399,Decor 399,Urban,Home & Kitchen,Decor,3164,4108.96
+400,Appliance 400,Urban,Home & Kitchen,Appliance,5633,9665.47
+401,Fitness 401,Nova,Sports,Fitness,7140,12251.36
+402,Outdoor 402,Prime,Sports,Outdoor,4203,6996.28
+403,Outdoor 403,Nova,Sports,Outdoor,7277,10138.45
+404,Outdoor 404,Elite,Sports,Outdoor,2919,4642.06
+405,Fitness 405,Vertex,Sports,Fitness,10817,18460.88
+406,Fitness 406,Urban,Sports,Fitness,4867,7447.34
+407,Fitness 407,Vertex,Sports,Fitness,1878,2893.41
+408,Fitness 408,Prime,Sports,Fitness,8566,12449.15
+409,Fitness 409,Elite,Sports,Fitness,7299,9811.46
+410,Fitness 410,Nova,Sports,Fitness,4134,7552.62
+411,Fitness 411,Prime,Sports,Fitness,11043,15998.87
+412,Outdoor 412,Urban,Sports,Outdoor,1638,2542.38
+413,Outdoor 413,Vertex,Sports,Outdoor,5688,7599.88
+414,Outdoor 414,Elite,Sports,Outdoor,3846,4532.23
+415,Outdoor 415,Nova,Sports,Outdoor,1332,1687.38
+416,Fitness 416,Urban,Sports,Fitness,9096,11769.57
+417,Fitness 417,Elite,Sports,Fitness,6465,9870.28
+418,Outdoor 418,Elite,Sports,Outdoor,3378,4136.02
+419,Outdoor 419,Apex,Sports,Outdoor,4983,5967.63
+420,Outdoor 420,Elite,Sports,Outdoor,2279,2862.36
+421,Outdoor 421,Nova,Sports,Outdoor,2281,3752.22
+422,Fitness 422,Vertex,Sports,Fitness,9672,18268.03
+423,Fitness 423,Nova,Sports,Fitness,11919,20772.55
+424,Fitness 424,Prime,Sports,Fitness,5476,7283.18
+425,Outdoor 425,Urban,Sports,Outdoor,5901,7540.95
+426,Outdoor 426,Prime,Sports,Outdoor,11868,21013.73
+427,Outdoor 427,Prime,Sports,Outdoor,7375,9474.94
+428,Fitness 428,Prime,Sports,Fitness,9111,15439.34
+429,Fitness 429,Vertex,Sports,Fitness,10997,19839.04
+430,Fitness 430,Nova,Sports,Fitness,2087,3664.42
+431,Fitness 431,Urban,Sports,Fitness,259,327.57
+432,Fitness 432,Urban,Sports,Fitness,5214,9892.34
+433,Outdoor 433,Apex,Sports,Outdoor,10752,18695.44
+434,Fitness 434,Elite,Sports,Fitness,5298,8153.91
+435,Outdoor 435,Apex,Sports,Outdoor,2270,3246.72
+436,Fitness 436,Apex,Sports,Fitness,10350,14055.95
+437,Fitness 437,Elite,Sports,Fitness,8455,9865.17
+438,Fitness 438,Urban,Sports,Fitness,914,1415.67
+439,Fitness 439,Urban,Sports,Fitness,10495,17608.09
+440,Outdoor 440,Apex,Sports,Outdoor,4279,7181.35
+441,Outdoor 441,Elite,Sports,Outdoor,9113,12464.74
+442,Fitness 442,Vertex,Sports,Fitness,4407,6663.08
+443,Fitness 443,Vertex,Sports,Fitness,7606,13665
+444,Outdoor 444,Urban,Sports,Outdoor,7654,10865.59
+445,Fitness 445,Elite,Sports,Fitness,4030,7606.6
+446,Outdoor 446,Nova,Sports,Outdoor,10607,15113.24
+447,Outdoor 447,Urban,Sports,Outdoor,9185,10982.07
+448,Outdoor 448,Apex,Sports,Outdoor,730,1079.01
+449,Outdoor 449,Elite,Sports,Outdoor,3956,5559.36
+450,Fitness 450,Vertex,Sports,Fitness,11990,20943.47
+451,Fitness 451,Prime,Sports,Fitness,8189,10044.39
+452,Outdoor 452,Prime,Sports,Outdoor,8182,9674.57
+453,Outdoor 453,Elite,Sports,Outdoor,7083,12754.67
+454,Outdoor 454,Prime,Sports,Outdoor,7101,8993.69
+455,Fitness 455,Urban,Sports,Fitness,11878,15065.44
+456,Fitness 456,Urban,Sports,Fitness,11253,20137.79
+457,Fitness 457,Elite,Sports,Fitness,3035,5517.77
+458,Outdoor 458,Urban,Sports,Outdoor,3350,4235.25
+459,Fitness 459,Elite,Sports,Fitness,2024,3698.03
+460,Outdoor 460,Nova,Sports,Outdoor,9952,18822.03
+461,Outdoor 461,Nova,Sports,Outdoor,6590,8497.06
+462,Outdoor 462,Urban,Sports,Outdoor,2068,3558.9
+463,Fitness 463,Vertex,Sports,Fitness,11334,13332.17
+464,Fitness 464,Vertex,Sports,Fitness,3589,4182.2
+465,Fitness 465,Vertex,Sports,Fitness,5013,6134.63
+466,Fitness 466,Apex,Sports,Fitness,4023,6048.45
+467,Outdoor 467,Urban,Sports,Outdoor,2187,2574.75
+468,Fitness 468,Prime,Sports,Fitness,8556,12792.63
+469,Fitness 469,Elite,Sports,Fitness,7417,10261.38
+470,Outdoor 470,Nova,Sports,Outdoor,452,825.68
+471,Outdoor 471,Elite,Sports,Outdoor,6744,8971.44
+472,Fitness 472,Elite,Sports,Fitness,5664,9008.21
+473,Fitness 473,Urban,Sports,Fitness,8714,15225.97
+474,Outdoor 474,Elite,Sports,Outdoor,7890,13666.49
+475,Outdoor 475,Elite,Sports,Outdoor,423,503.7
+476,Outdoor 476,Prime,Sports,Outdoor,3932,6288.32
+477,Outdoor 477,Prime,Sports,Outdoor,9184,17148.22
+478,Fitness 478,Vertex,Sports,Fitness,4459,7665.31
+479,Outdoor 479,Prime,Sports,Outdoor,1690,2337.27
+480,Fitness 480,Nova,Sports,Fitness,1305,1592.27
+481,Fitness 481,Elite,Sports,Fitness,6244,7203.1
+482,Outdoor 482,Urban,Sports,Outdoor,4939,9084.49
+483,Outdoor 483,Apex,Sports,Outdoor,11883,15173.64
+484,Outdoor 484,Apex,Sports,Outdoor,2067,2953.45
+485,Fitness 485,Urban,Sports,Fitness,3812,6892.87
+486,Outdoor 486,Apex,Sports,Outdoor,10062,16211.04
+487,Outdoor 487,Apex,Sports,Outdoor,4852,8350.78
+488,Outdoor 488,Apex,Sports,Outdoor,2074,2954.47
+489,Outdoor 489,Nova,Sports,Outdoor,2453,3425.19
+490,Outdoor 490,Urban,Sports,Outdoor,2844,4160.94
+491,Fitness 491,Vertex,Sports,Fitness,6786,7822.56
+492,Fitness 492,Urban,Sports,Fitness,11091,17176.05
+493,Outdoor 493,Vertex,Sports,Outdoor,4433,5871.69
+494,Outdoor 494,Urban,Sports,Outdoor,2896,5137.31
+495,Fitness 495,Urban,Sports,Fitness,671,961.2
+496,Outdoor 496,Apex,Sports,Outdoor,11270,13317
+497,Outdoor 497,Nova,Sports,Outdoor,3436,5347.04
+498,Fitness 498,Vertex,Sports,Fitness,11567,14917.67
+499,Fitness 499,Prime,Sports,Fitness,11703,18839.34
+500,Outdoor 500,Prime,Sports,Outdoor,4958,7749.29
+501,Stationery 501,Urban,Office Supplies,Stationery,10302,12707.01
+502,Stationery 502,Apex,Office Supplies,Stationery,5131,8512.18
+503,Paper 503,Urban,Office Supplies,Paper,11207,16607.56
+504,Paper 504,Apex,Office Supplies,Paper,6164,9370.45
+505,Paper 505,Nova,Office Supplies,Paper,1173,1923.27
+506,Paper 506,Apex,Office Supplies,Paper,10224,16547.62
+507,Paper 507,Nova,Office Supplies,Paper,4583,8042.26
+508,Paper 508,Apex,Office Supplies,Paper,8731,10193.66
+509,Paper 509,Vertex,Office Supplies,Paper,7409,9003.39
+510,Stationery 510,Prime,Office Supplies,Stationery,8928,11865.24
+511,Paper 511,Urban,Office Supplies,Paper,5345,9748.86
+512,Paper 512,Nova,Office Supplies,Paper,2357,3305.53
+513,Paper 513,Nova,Office Supplies,Paper,568,919.09
+514,Paper 514,Vertex,Office Supplies,Paper,2816,4719.41
+515,Stationery 515,Nova,Office Supplies,Stationery,5126,9432.25
+516,Paper 516,Urban,Office Supplies,Paper,7412,11875.4
+517,Paper 517,Prime,Office Supplies,Paper,1165,1979.48
+518,Stationery 518,Vertex,Office Supplies,Stationery,1698,3161.22
+519,Stationery 519,Prime,Office Supplies,Stationery,10232,16376.32
+520,Stationery 520,Elite,Office Supplies,Stationery,11657,18151.18
+521,Stationery 521,Prime,Office Supplies,Stationery,3422,6346.26
+522,Stationery 522,Apex,Office Supplies,Stationery,4635,7919.54
+523,Paper 523,Elite,Office Supplies,Paper,2382,3980.97
+524,Paper 524,Elite,Office Supplies,Paper,3871,4727.38
+525,Stationery 525,Apex,Office Supplies,Stationery,7761,11892.85
+526,Stationery 526,Vertex,Office Supplies,Stationery,635,1027.52
+527,Stationery 527,Urban,Office Supplies,Stationery,6773,8854.35
+528,Stationery 528,Prime,Office Supplies,Stationery,10980,20313.31
+529,Paper 529,Elite,Office Supplies,Paper,7164,13173.93
+530,Paper 530,Prime,Office Supplies,Paper,3441,5644.15
+531,Stationery 531,Nova,Office Supplies,Stationery,9556,16812.2
+532,Stationery 532,Nova,Office Supplies,Stationery,4721,6663.45
+533,Stationery 533,Apex,Office Supplies,Stationery,4818,6902.56
+534,Paper 534,Nova,Office Supplies,Paper,5372,7939.98
+535,Stationery 535,Prime,Office Supplies,Stationery,4360,7607.51
+536,Paper 536,Urban,Office Supplies,Paper,11680,20240.52
+537,Paper 537,Elite,Office Supplies,Paper,11310,16699.42
+538,Stationery 538,Elite,Office Supplies,Stationery,11232,18926.74
+539,Paper 539,Prime,Office Supplies,Paper,1850,2344.13
+540,Paper 540,Elite,Office Supplies,Paper,5406,7113.71
+541,Stationery 541,Prime,Office Supplies,Stationery,4747,5989.22
+542,Paper 542,Apex,Office Supplies,Paper,2841,4279.35
+543,Paper 543,Elite,Office Supplies,Paper,7403,12099.04
+544,Paper 544,Prime,Office Supplies,Paper,473,891.71
+545,Stationery 545,Vertex,Office Supplies,Stationery,827,1502.78
+546,Paper 546,Urban,Office Supplies,Paper,9013,13307.77
+547,Paper 547,Urban,Office Supplies,Paper,9585,12258.89
+548,Stationery 548,Nova,Office Supplies,Stationery,1908,2880.99
+549,Paper 549,Urban,Office Supplies,Paper,11525,15907.46
+550,Paper 550,Nova,Office Supplies,Paper,1181,2101.22
+551,Paper 551,Urban,Office Supplies,Paper,4269,5568.36
+552,Stationery 552,Prime,Office Supplies,Stationery,1613,2172.98
+553,Stationery 553,Elite,Office Supplies,Stationery,202,277.77
+554,Paper 554,Vertex,Office Supplies,Paper,6287,8374.2
+555,Stationery 555,Nova,Office Supplies,Stationery,2069,3549.92
+556,Paper 556,Elite,Office Supplies,Paper,5595,9580.11
+557,Stationery 557,Prime,Office Supplies,Stationery,578,1096.38
+558,Stationery 558,Elite,Office Supplies,Stationery,800,1108.04
+559,Stationery 559,Elite,Office Supplies,Stationery,10872,20094.84
+560,Paper 560,Apex,Office Supplies,Paper,5319,7784.03
+561,Stationery 561,Apex,Office Supplies,Stationery,11288,16681.58
+562,Stationery 562,Elite,Office Supplies,Stationery,4697,6029.18
+563,Stationery 563,Apex,Office Supplies,Stationery,3658,6019.92
+564,Paper 564,Prime,Office Supplies,Paper,7758,14465.55
+565,Paper 565,Elite,Office Supplies,Paper,1508,2508.93
+566,Paper 566,Elite,Office Supplies,Paper,417,560.51
+567,Paper 567,Prime,Office Supplies,Paper,3356,5042.36
+568,Stationery 568,Vertex,Office Supplies,Stationery,7311,12315.57
+569,Paper 569,Vertex,Office Supplies,Paper,2538,4141.92
+570,Paper 570,Elite,Office Supplies,Paper,10977,15062.77
+571,Stationery 571,Apex,Office Supplies,Stationery,11999,16723.52
+572,Paper 572,Nova,Office Supplies,Paper,5716,6864.43
+573,Paper 573,Urban,Office Supplies,Paper,4901,5794.43
+574,Stationery 574,Prime,Office Supplies,Stationery,9143,15235.2
+575,Paper 575,Nova,Office Supplies,Paper,1702,2890.59
+576,Stationery 576,Urban,Office Supplies,Stationery,612,1061.48
+577,Paper 577,Apex,Office Supplies,Paper,10295,14888.79
+578,Stationery 578,Elite,Office Supplies,Stationery,2204,2729.31
+579,Stationery 579,Elite,Office Supplies,Stationery,8180,15341.03
+580,Paper 580,Elite,Office Supplies,Paper,7332,13521.4
+581,Paper 581,Vertex,Office Supplies,Paper,5471,8262.14
+582,Stationery 582,Apex,Office Supplies,Stationery,6641,10222.59
+583,Stationery 583,Vertex,Office Supplies,Stationery,1994,3169.9
+584,Stationery 584,Prime,Office Supplies,Stationery,4501,8126.35
+585,Paper 585,Apex,Office Supplies,Paper,7416,10696.24
+586,Stationery 586,Apex,Office Supplies,Stationery,6121,7739.91
+587,Paper 587,Urban,Office Supplies,Paper,7169,9043.75
+588,Paper 588,Elite,Office Supplies,Paper,2211,3472.68
+589,Paper 589,Vertex,Office Supplies,Paper,754,1214.26
+590,Stationery 590,Nova,Office Supplies,Stationery,9803,14507.27
+591,Paper 591,Apex,Office Supplies,Paper,1988,2890.18
+592,Paper 592,Elite,Office Supplies,Paper,6351,9037.95
+593,Paper 593,Apex,Office Supplies,Paper,458,536.01
+594,Paper 594,Nova,Office Supplies,Paper,10658,12908.11
+595,Paper 595,Prime,Office Supplies,Paper,10101,15537.81
+596,Stationery 596,Apex,Office Supplies,Stationery,7029,10408.71
+597,Paper 597,Nova,Office Supplies,Paper,5324,9475.07
+598,Paper 598,Elite,Office Supplies,Paper,9098,16907.86
+599,Stationery 599,Nova,Office Supplies,Stationery,9991,11927.27
+600,Paper 600,Vertex,Office Supplies,Paper,7210,8637.64
